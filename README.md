@@ -1,6 +1,6 @@
 <img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" align="right">
 
-# Hi 👋, I'm Raj 👋
+# Hi 👋, I'm Raj
 
 <h3>🐧 A passionate, pro full-stack developer 🌐</h3>
 
