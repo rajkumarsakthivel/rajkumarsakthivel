@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Raj
 
-<h3>🐧 A passionate, pro full-stack developer 🌐</h3>
+<h3> A passionate, pro full-stack developer 🌐</h3>
 
 - 🚀 I use LAMP Stack
 - 🍎 Using Apple
