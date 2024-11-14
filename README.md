@@ -1,11 +1,12 @@
-## Hey, I'm Raj 👋
+<img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" align="right">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rajkumarsakthi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%rajkumarsakthivel&screen_name=rajkumarsakthi)
+## Hey, I'm Raj 👋
 
 ## 🐧 • Full-Stack Web Developer 🌐 
 
 - 🚀 I use LAMP Stack
-- 🍎 Using Apple 
+- 🍎 Using Apple
+- 🌱 I’m currently learning **AI/ML**
 - 🗓️ I read daily
 - 🎓 Studying at University of Oxford
 
