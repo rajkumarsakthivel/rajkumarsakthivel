@@ -1,8 +1,8 @@
 <img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" align="right">
 
-## Hey, I'm Raj 👋
+# Hi 👋, I'm Raj 👋
 
-## 🐧 • Full-Stack Web Developer 🌐 
+<h3>🐧 A passionate, pro full-stack developer 🌐</h3>
 
 - 🚀 I use LAMP Stack
 - 🍎 Using Apple
