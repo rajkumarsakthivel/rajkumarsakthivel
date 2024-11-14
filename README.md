@@ -7,8 +7,6 @@
 - 🚀 I use LAMP Stack
 - 🍎 Using Apple
 - 🌱 I’m currently learning **AI/ML**
-- 🗓️ I read daily
-- 🎓 Studying at University of Oxford
 
 ### Connect with me:
 
