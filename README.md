@@ -1,4 +1,4 @@
-<img src="https://github.com/jghoman/awesome-apache-airflow/raw/master/airflow-logo.png" align="right">
+<img src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" align="right">
 
 # Hi 👋, I'm Raj
 
