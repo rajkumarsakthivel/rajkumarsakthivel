@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" align="right">
 
 # Hi 👋, I'm Raj
-<h3> A passionate, pro full-stack developer 🌐</h3>
+<h3> A passionate, Pro full-stack developer 🌐</h3>
 
 - 🚀 I use LAMP Stack
 - 🍎 Using Apple
